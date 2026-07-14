@@ -10,7 +10,7 @@ export default function Contact() {
 
       <p className="text-gray-400 text-lg leading-8 max-w-3xl mx-auto mb-10">
         I am actively seeking opportunities as a Java Full Stack Developer.
-        If you have an opportunity, project, or would like to connect,
+        If you have an opportunity, or would like to connect,
         feel free to reach out. I would be happy to hear from you.
       </p>
 
@@ -30,13 +30,6 @@ export default function Contact() {
 
       <div className="mt-10 flex justify-center gap-6">
 
-        <a
-          href="https://github.com/yourusername"
-          target="_blank"
-          className="border border-teal-400 px-6 py-3 rounded hover:bg-teal-400 hover:text-black transition"
-        >
-          GitHub
-        </a>
 
 
       </div>
