@@ -3,13 +3,14 @@ export default function Projects() {
     {
       title: "Credit Card Fraud Detection | Mini Project",
       description:
-        "This project aims to develop a robust machine learning model integrated into a Flask web application to detect fraudulent credit card transactions in real-time. Utilizing advanced data preprocessing techniques and a RandomForest classifier, this system provides high accuracy and adaptability to evolving fraud patterns.",
-     
+        "Developed a machine learning-based web application to detect fraudulent credit card transactions in real time. The system uses advanced data preprocessing techniques and a Random Forest classifier to accurately identify suspicious transactions and improve fraud prevention.",
+      tech: "Python • Flask • Machine Learning • Random Forest",
+    },
     {
-      title: "Smart Car lock/unlock system | Main Project",
+      title: "Smart Car Lock/Unlock System | Main Project",
       description:
-        "Designing a smart car locking system using arduino, RFID and raspberry pi for secure access control.",
-      
+        "Designed and developed a smart car locking and unlocking system using Arduino, RFID, and Raspberry Pi. The system provides secure vehicle access control through RFID authentication and IoT integration.",
+      tech: "Arduino • Raspberry Pi • RFID • IoT",
     },
   ];
 
@@ -22,7 +23,7 @@ export default function Projects() {
         <span className="text-teal-400">03.</span> Projects
       </h2>
 
-      <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <div className="grid md:grid-cols-2 gap-8">
         {projects.map((project, index) => (
           <div
             key={index}
@@ -37,7 +38,7 @@ export default function Projects() {
             </p>
 
             <p className="text-sm text-gray-300 font-medium">
-              {project.tech}
+              <strong>Technologies:</strong> {project.tech}
             </p>
           </div>
         ))}
