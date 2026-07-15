@@ -4,13 +4,12 @@ export default function Projects() {
       title: "Credit Card Fraud Detection | Mini Project",
       description:
         "This project aims to develop a robust machine learning model integrated into a Flask web application to detect fraudulent credit card transactions in real-time. Utilizing advanced data preprocessing techniques and a RandomForest classifier, this system provides high accuracy and adaptability to evolving fraud patterns.",
-      tech: "Java • Spring Boot • SQL • HTML • CSS • JavaScript",
-    },
+     
     {
       title: "Smart Car lock/unlock system | Main Project",
       description:
         "Designing a smart car locking system using arduino, RFID and raspberry pi for secure access control.",
-      tech: "Power BI • Excel • SQL • Python",
+      
     },
   ];
 
