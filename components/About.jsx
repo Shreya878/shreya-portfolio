@@ -12,10 +12,9 @@ export default function About() {
 
         <p>
            <span className="text-white font-semibold"></span>
-         Information Science and Engineering graduate with a strong
-          passion for Java Full Stack Development.Skilled in Core Java, OOP,  SQL,  HTML,  CSS, and JavaScript, with a strong interest in applying programming
-          concepts to real-world applications.Seeking an entry-level opportunity to gain hands-on experience, enhance
-          technical skills, and grow in the IT industry.
+         Motivated and career-focused individual eager to begin a career in the Information Technology field.
+         Seeking to contribute to organizational success by applying technical and problem-solving skills,
+         gaining valuable industry experience, and fostering continuous professional growth.
         </p>
 
         <p>

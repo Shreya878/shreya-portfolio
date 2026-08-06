@@ -15,9 +15,6 @@ export default function Hero() {
             Shreya M J
           </h1>
 
-          <h2 className="text-4xl font-bold text-gray-400 mt-4">
-            Aspiring Java Full Stack Developer
-          </h2>
 
           {/* Education & Contact */}
           <div className="mt-8 text-gray-300 space-y-3 text-lg">
@@ -44,7 +41,7 @@ export default function Hero() {
           <div className="mt-10 flex gap-5">
 
             <a
-               href="/resume.pdf"
+               href="/Shreya_M J_Resume.pdf"
                target="_blank"
                rel="noopener noreferrer"
                className="border border-teal-400 text-teal-400 px-6 py-3 rounded hover:bg-teal-400 hover:text-black transition"
