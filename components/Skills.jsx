@@ -6,7 +6,7 @@ export default function Skills() {
     "Python",
     "Power BI",
     "GitHub",
-    "SQL"
+    "SQL",
   ];
 
   return (
