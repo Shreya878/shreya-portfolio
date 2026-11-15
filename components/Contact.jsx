@@ -9,7 +9,7 @@ export default function Contact() {
       </h2>
 
       <p className="text-gray-400 text-lg leading-8 max-w-3xl mx-auto mb-10">
-        I am actively seeking opportunities as a Java Full Stack Developer.
+        I am actively seeking new opportunities and professional growth.
         If you have an opportunity, or would like to connect,
         feel free to reach out. I would be happy to hear from you.
       </p>

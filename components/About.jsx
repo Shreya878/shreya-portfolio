@@ -9,19 +9,11 @@ export default function About() {
       </h2>
 
       <div className="max-w-4xl space-y-6 text-gray-400 leading-8 text-lg">
+        
 
         <p>
-           <span className="text-white font-semibold"></span>
-         Motivated and career-focused individual eager to begin a career in the Information Technology field.
-         Seeking to contribute to organizational success by applying technical and problem-solving skills,
-         gaining valuable industry experience, and fostering continuous professional growth.
-        </p>
-
-        <p>
-          I am currently looking for an opportunity where I can contribute to
-          real-world projects, collaborate with experienced professionals, and
-          grow as a Software Engineer while delivering reliable and efficient
-          solutions.
+          <span className="text-white font-semibold"></span>
+          I am an enthusiastic and motivated engineering graduate with a passion for technology and software development. I have a good foundation in Java, React.js, SQL, HTML, CSS, and JavaScript. I enjoy building projects, solving problems, and exploring new technologies. I am always eager to learn, improve my skills, and take on new challenges. I look forward to starting my professional journey and contributing to innovative projects.
         </p>
 
       </div>

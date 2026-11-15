@@ -1,11 +1,11 @@
 export default function Skills() {
 
   const skills = [
-    "Java",
-    "HTML|CSS|JavaScript",
     "Python",
     "Power BI",
-    "GitHub",
+    "Prompt Engineering",
+    "Software Testing",
+    "Machine Learning",
     "SQL",
   ];
 
