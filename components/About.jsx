@@ -13,7 +13,7 @@ export default function About() {
 
         <p>
           <span className="text-white font-semibold"></span>
-          I am an enthusiastic and motivated engineering graduate with a passion for technology and software development. I have a good foundation in Java, React.js, SQL, HTML, CSS, and JavaScript. I enjoy building projects, solving problems, and exploring new technologies. I am always eager to learn, improve my skills, and take on new challenges. I look forward to starting my professional journey and contributing to innovative projects.
+          I am a curious and dedicated engineering graduate who enjoys exploring technology and turning ideas into practical solutions. I love working on projects, learning how different technologies work, and finding creative ways to solve problems. I believe in continuous learning and improving myself through hands-on experience. I am always open to new opportunities, challenges, and experiences that help me grow both personally and professionally.
         </p>
 
       </div>
