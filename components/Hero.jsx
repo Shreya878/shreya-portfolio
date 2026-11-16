@@ -41,12 +41,12 @@ export default function Hero() {
           <div className="mt-10 flex gap-5">
 
             <a
-               href="/Shreya_M J_Resume.pdf" 
+               href="/Shreya_M%20J_Resume.pdf" 
                target="_blank"
                rel="noopener noreferrer"
                className="border border-teal-400 text-teal-400 px-6 py-3 rounded hover:bg-teal-400 hover:text-black transition"
               >
-              Resume
+              View Resume
             </a>
 
             <a
